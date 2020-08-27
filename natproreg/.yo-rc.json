@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.luulsolutions.property",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "natproreg",
+    "packageName": "com.luulsolutions.property",
+    "packageFolder": "com/luulsolutions/property",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTQzZDE4MTU4ZjgzNTdjZDg0YTUxODc5NjcwYjMwMWI2YzJjZDI2OWM3MjdjNDFjMTk5NTM3NWE1MzliNmFkZDJhNjFhMmQ4MzM4NWMxMzEzZTRlNTY2NzA2OGIxYjIwYTNmYjIzNmJmODJiYjIyMTJmOTI4NjBiZTZmNjdkMDY=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1598547733306,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
