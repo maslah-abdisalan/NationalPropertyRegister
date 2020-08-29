@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.luulsolutions.gateway",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.luulsolutions.gateway",
+    "packageFolder": "com/luulsolutions/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTUwZjJkYzExMDMxNTNlYjNmMzI0NjE2NGJhNDNlMWEyZGM1MGVjYzQ4MmY4ZDU4MDNlZGFmMjM3Yjc2ZTNiYjg2MTk1NDllM2U0OGViN2YyYmJiOWViMWJmMzJlNTljNmJiZTI3Y2VmYmFhMmJlZGY3ZjgwYTM5ZTBkM2M5MDE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1598679940082,
+    "testFrameworks": ["gatling"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr"],
+    "blueprints": []
+  }
+}
